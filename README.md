@@ -1,2 +1,2 @@
-intelligence by mahout first
+intelligence by mahout
 ============
